@@ -21,7 +21,6 @@ Check out the live version here: [Netflix Clone on Vercel](https://your-project-
 - **Version Control**: Git & GitHub
 - **Build Tool**: Vite
 
-
 ## Prerequisites
 Before running the project locally, ensure you have:
 - Node.js (v16 or later)
